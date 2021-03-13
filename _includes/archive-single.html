@@ -43,6 +43,21 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
       <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+      {% if post.pdf_link and post.pdf_link != "" %}
+        <a href="{{ post.pdf_link | prepend: '/files/' | prepend: base_path }}">Paper</a>
+      {% endif %}
+      {% if post.preprint_link and post.preprint_link != "" %}
+        <a href="{{ post.preprint_link }}">Preprint</a>
+      {% endif %}
+      {% if post.code_link and post.code_link != "" %}
+        <a href="{{ post.code_link }}">Code</a>
+      {% endif %}
+      {% if post.slides_link and post.slides_link != "" %}
+        <a href="{{ post.slides_link | prepend: '/files/' | prepend: base_path }}">Slides</a>
+      {% endif %}
+      {% if post.video_link and post.video_link != "" %}
+        <a href="{{ post.video_link }}">Video</a>
+      {% endif %}
     {% elsif post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}

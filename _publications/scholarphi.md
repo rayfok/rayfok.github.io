@@ -9,6 +9,10 @@ paperurl: ''
 citation: "Andrew Head, Kyle Lo, Dongyeop Kang, <b>Raymond Fok</b>, Sam Skjonsberg,
 Daniel S. Weld, and Marti A. Hearst. 2021. Augmenting Scientific Papers
 with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols. In
-CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13,
-2021, Yokohama, Japan. ACM, New York, NY, USA, 18 pages"
+<i>CHI Conference on Human Factors in Computing Systems</i> (CHI ’21), May 8–13,
+2021, Yokohama, Japan. ACM, New York, NY, USA, 18 pages."
+pdf_link: ""
+preprint_link: "https://arxiv.org/abs/2009.14237"
+code_link: "https://github.com/allenai/scholarphi"
+video_link: "https://www.youtube.com/watch?v=y8Kuyf9jygs"
 ---
