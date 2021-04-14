@@ -77,7 +77,7 @@
     {% endif %} -->
 
     {% if post.citation %}
-      <p>{{ post.citation }}</p>
+      <p>{{ post.citation | replace:"Raymond Fok", "<span class='myname'>Raymond Fok</span>" }}</p>
     {% endif %}
 
   </article>

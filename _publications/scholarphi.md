@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-05-01
 venue: 'CHI Conference on Human Factors in Computing Systems'
 paperurl: ''
-citation: "Andrew Head, Kyle Lo, Dongyeop Kang, <b>Raymond Fok</b>, Sam Skjonsberg,
+citation: "Andrew Head, Kyle Lo, Dongyeop Kang, Raymond Fok, Sam Skjonsberg,
 Daniel S. Weld, and Marti A. Hearst. 2021. Augmenting Scientific Papers
 with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols. In
 <i>CHI Conference on Human Factors in Computing Systems</i> (CHI ’21), May 8–13,

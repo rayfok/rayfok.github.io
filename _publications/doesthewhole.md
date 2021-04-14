@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-05-01
 venue: 'CHI Conference on Human Factors in Computing Systems'
 paperurl: ''
-citation: "Gagan Bansal, Tongshuang Wu, Joyce Zhou, <b>Raymond Fok</b>, Besmira Nushi,
+citation: "Gagan Bansal, Tongshuang Wu, Joyce Zhou, Raymond Fok, Besmira Nushi,
 Ece Kamar, Marco Tulio Ribeiro, and Daniel S. Weld. 2021. Does the Whole
 Exceed its Parts? The Effect of AI Explanations on Complementary Team
 Performance. In <i>CHI Conference on Human Factors in Computing Systems</i>
