@@ -13,6 +13,7 @@ with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols. In
 2021, Yokohama, Japan. ACM, New York, NY, USA, 18 pages."
 pdf_link: ""
 preprint_link: "https://arxiv.org/abs/2009.14237"
+pdf_link: "CHI19_ScholarPhi.pdf"
 code_link: "https://github.com/allenai/scholarphi"
 video_link: "https://www.youtube.com/watch?v=y8Kuyf9jygs"
 ---
