@@ -12,6 +12,6 @@ Exceed its Parts? The Effect of AI Explanations on Complementary Team
 Performance. In <i>CHI Conference on Human Factors in Computing Systems</i>
 (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA,
 16 pages."
-pdf_link: ""
+pdf_link: "CHI21_XAI.pdf"
 preprint_link: "https://arxiv.org/abs/2006.14779"
 ---
