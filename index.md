@@ -10,8 +10,7 @@ Throughout my PhD, I have collaborated frequently with the Semantic Scholar team
 
 ## Research Interests
 
-- **Human-Computer Interaction:** XAI for decision-making, design of intelligent tools to support scholars
-- **Natural Language Processing:** long-form document understanding, science QA, LLMs for science writing
+- **Human-Computer Interaction:** XAI for decision-making, designing intelligent systems to support scholars
 
 {% include_relative _includes/preprints.md %}
 
