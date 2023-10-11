@@ -35,7 +35,7 @@
     <div class="author">Ather Sharif, Paari Gopal, Michael Saugstad, Shiven Bhatt, <strong>Raymond Fok</strong>, Galen Weld, Kavi Asher Mankoff Dey, Jon E. Froehlich</div>
     <div class="periodical"><em>ACM SIGACCESS Conference on Computers and Accessibility <strong>(ASSETS)</strong>, 2021.</em></div>
     <div class="links">
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3441852.3476549" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3441852.3476549" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACM DL</a>
     </div>
   </div>
 </div>
@@ -52,10 +52,10 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="files/papers/ci2017_eureca.pdf">Towards Hybrid Intelligence for Robotics</a></div>
-    <div class="author">Sai Gouravajhala, Jean Y Song, Jinyeong Yim, <strong>Raymond Fok</strong>, Yanda Huang, Fan Yang, Kyle Wang, and Walter S. Lasecki Yilei An</div>
+    <div class="author">Sai Gouravajhala, Jean Y Song, Jinyeong Yim, <strong>Raymond Fok</strong>, Yanda Huang, Fan Yang, Kyle Wang, Yilei An, and Walter S. Lasecki</div>
     <div class="periodical"><em>Collective Intelligence <strong>(CI)</strong>, 2017.</em></div>
     <div class="links">
-      <a href="files/papers/ci2017_eureca.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/papers/ci2017_eureca.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
