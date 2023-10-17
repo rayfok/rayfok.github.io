@@ -51,7 +51,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="files/papers/ci2017_eureca.pdf">Towards Hybrid Intelligence for Robotics</a></div>
+    <div class="title"><a href="assets/files/papers/ci2017_eureca.pdf">Towards Hybrid Intelligence for Robotics</a></div>
     <div class="author">Sai Gouravajhala, Jean Y Song, Jinyeong Yim, <strong>Raymond Fok</strong>, Yanda Huang, Fan Yang, Kyle Wang, Yilei An, and Walter S. Lasecki</div>
     <div class="periodical"><em>Collective Intelligence <strong>(CI)</strong>, 2017.</em></div>
     <div class="links">
