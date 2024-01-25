@@ -6,6 +6,27 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teasers/decontext_teaser.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">EMNLP '23</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://aclanthology.org/2023.emnlp-main.193/">A Question Answering Framework for Decontextualizing User-facing Snippets from Scientific Documents</a></div>
+    <div class="author">Benjamin Newman, Luca Soldaini, <strong>Raymond Fok</strong>, Arman Cohan, and Kyle Lo</div>
+    <div class="periodical"><em>Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://aclanthology.org/2023.emnlp-main.193.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/bnewm0609/qa-decontext/tree/emnlp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teasers/scim_teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IUI '23</abbr>
   </div>
