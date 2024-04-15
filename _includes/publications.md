@@ -11,7 +11,7 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://arxiv.org/abs/2310.07581">Qlarify: Bridging Scholarly Abstracts and Papers with Recursively Expandable Summaries</a></div>
+          <div class="title"><a href="https://arxiv.org/abs/2310.07581">Qlarify: Recursively Expandable Abstracts for Directed Information Retrieval over Scientific Papers</a></div>
           <div class="author"><strong>Raymond Fok</strong>, Joseph Chee Chang, Tal August, Amy X. Zhang, Daniel S. Weld</div>
           <div class="periodical"><em>ArXiv 2305.07722. October 2023.</em></div>
           <div class="links">
