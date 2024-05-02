@@ -2,7 +2,6 @@
 
 <div class="publications">
   <ol class="bibliography">
-
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -19,47 +18,68 @@
           </div>
         </div>
       </div>
-      </li>
+    </li>
 
-      <br>
+    <br>
 
-      <li>
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/teasers/marco_teaser.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">CHI '24</abbr>
+        </div>
+
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="/">Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models</a></div>
+          <div class="author"><strong>Raymond Fok</strong>, Nedim Lipka, Tong Sun, Alexa Siu</div>
+          <div class="periodical"><em>ACM Conference on Human Factors in Computing Systems <strong>(CHI)</strong>,
+            2024.</em></div>
+          <div class="links">
+            <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <br>
+
+    <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/teasers/verifiability_teaser.png" class="teaser img-fluid z-depth-1">
-          <abbr class="badge">arXiv</abbr>
+          <abbr class="badge">AI Magazine</abbr>
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href="https://arxiv.org/abs/2305.07722">In Search of Verifiability: Explanations Rarely Enable Complementary Performance in AI-Advised Decision Making</a></div>
           <div class="author"><strong>Raymond Fok</strong>, Daniel S. Weld</div>
-          <div class="periodical"><em>ArXiv 2305.07722. May 2023.</em></div>
+          <div class="periodical"><em>AI Magazine. May 2023.</em></div>
           <div class="links">
             <a href="https://arxiv.org/pdf/2305.07722.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           </div>
         </div>
       </div>
-      </li>
+    </li>
 
-      <br>
+    <br>
 
-      <li>
+    <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/teasers/semanticReader_teaser.png" class="teaser img-fluid z-depth-1">
-          <abbr class="badge">arXiv</abbr>
+          <abbr class="badge">CACM</abbr>
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href="https://arxiv.org/abs/2303.14334">The Semantic Reader Project: Augmenting Scholarly Documents through AI-Powered Interactive Reading Interfaces</a></div>
           <div class="author">Kyle Lo, +51 authors (incl. <strong>Raymond Fok</strong>), Marti A. Hearst, Daniel S. Weld</div>
-          <div class="periodical"><em>ArXiv 2303.14334. April 2023.</em></div>
+          <div class="periodical"><em>Communications of the ACM. April 2023.</em></div>
           <div class="links">
             <a href="https://arxiv.org/pdf/2303.14334.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           </div>
         </div>
       </div>
-      </li>
+    </li>
 
     <li>
       <div class="pub-row">
