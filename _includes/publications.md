@@ -30,12 +30,12 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="/">Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models</a></div>
+          <div class="title"><a href="https://arxiv.org/abs/2405.01501">Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models</a></div>
           <div class="author"><strong>Raymond Fok</strong>, Nedim Lipka, Tong Sun, Alexa Siu</div>
           <div class="periodical"><em>ACM Conference on Human Factors in Computing Systems <strong>(CHI)</strong>,
             2024.</em></div>
           <div class="links">
-            <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="https://arxiv.org/pdf/2405.01501" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           </div>
         </div>
       </div>
