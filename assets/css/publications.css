@@ -213,3 +213,9 @@ blockquote {
   margin-bottom: 5px;
   object-fit: fill;
 }
+
+@media (max-width: 650px) {
+  .publications ol.bibliography li .abbr {
+    display: none;
+  }
+}
