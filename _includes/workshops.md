@@ -1,4 +1,4 @@
-<h2 id="light-pubs" style="margin: 2px 0px -15px;">Lightly-Reviewed Workshops, Posters, and Demos</h2>
+<!-- <h2 id="light-pubs" style="margin: 2px 0px -15px;">Lightly-Reviewed Workshops, Posters, and Demos</h2> -->
 
 <div class="publications">
   <ol class="bibliography">
@@ -15,11 +15,12 @@
               href="https://cdn.glitch.global/d058c114-3406-43be-8a3c-d3afff35eda2/paper4_2023.pdf">What Can’t Large
               Language Models Do? The Future of AI-Assisted Academic Writing</a></div>
           <div class="author"><strong>Raymond Fok</strong>, Daniel S. Weld</div>
-          <div class="periodical"><em>In2Writing Workshop @ CHI '23, 2023.</em></div>
+          <!-- <div class="periodical"><em>In2Writing Workshop @ CHI '23, 2023.</em></div> -->
           <div class="links">
-            <a href="https://cdn.glitch.global/d058c114-3406-43be-8a3c-d3afff35eda2/paper4_2023.pdf"
-              class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            [<a href="https://cdn.glitch.global/d058c114-3406-43be-8a3c-d3afff35eda2/paper4_2023.pdf"
+              class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>]
           </div>
+          <div class="venue">In2Writing Workshop @ CHI 2023</div>
         </div>
       </div>
     </li>
@@ -38,12 +39,12 @@
               to Track Accessibility Features in Sidewalk Intersections Over Time</a></div>
           <div class="author">Ather Sharif, Paari Gopal, Michael Saugstad, Shiven Bhatt, <strong>Raymond Fok</strong>,
             Galen Weld, Kavi Asher Mankoff Dey, Jon E. Froehlich</div>
-          <div class="periodical"><em>ACM SIGACCESS Conference on Computers and Accessibility <strong>(ASSETS)</strong>,
-              2021.</em></div>
+          <!-- <div class="periodical"><em>ACM SIGACCESS Conference on Computers and Accessibility <strong>(ASSETS)</strong>,2021.</em></div> -->
           <div class="links">
-            <a href="https://dl.acm.org/doi/pdf/10.1145/3441852.3476549" class="btn btn-sm z-depth-0" role="button"
-              target="_blank" style="font-size:12px;">PDF</a>
+            [<a href="https://dl.acm.org/doi/pdf/10.1145/3441852.3476549" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">PDF</a>]
           </div>
+          <div class="venue">ASSETS 2021</div>
         </div>
       </div>
     </li>
@@ -62,11 +63,12 @@
               Robotics</a></div>
           <div class="author">Sai Gouravajhala, Jean Y Song, Jinyeong Yim, <strong>Raymond Fok</strong>, Yanda Huang,
             Fan Yang, Kyle Wang, Yilei An, and Walter S. Lasecki</div>
-          <div class="periodical"><em>Collective Intelligence <strong>(CI)</strong>, 2017.</em></div>
+          <!-- <div class="periodical"><em>Collective Intelligence <strong>(CI)</strong>, 2017.</em></div> -->
           <div class="links">
-            <a href="assets/files/papers/ci2017_eureca.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank"
-              style="font-size:12px;">PDF</a>
+            [<a href="assets/files/papers/ci2017_eureca.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank"
+              style="font-size:12px;">PDF</a>]
           </div>
+          <div class="venue">CI 2017</div>
         </div>
       </div>
     </li>

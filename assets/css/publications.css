@@ -1,5 +1,6 @@
 .badge {
-  display: inline-block;
+  /* display: inline-block; */
+  visibility: hidden;
   padding: 0.25em 0.4em;
   font-size: 75%;
   font-weight: 700;
@@ -10,11 +11,7 @@
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-
-.badge {
   color: #fff !important;
-  border-radius: 0.125rem;
   -webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%),
     0 2px 10px 0 rgb(0 0 0 / 12%);
   box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
@@ -121,7 +118,12 @@ blockquote {
 }
 
 .publications ol.bibliography li .title {
-  font-weight: bolder;
+  font-weight: 500;
+}
+
+.publications ol.bibliography li .author {
+  font-style: italic;
+  font-size: 0.9rem;
 }
 
 .publications ol.bibliography li .author a {
@@ -138,16 +140,19 @@ blockquote {
   font-style: normal;
 }
 
+.publications ol.bibliography li .links {
+  display: inline-block;
+}
+
 .publications ol.bibliography li .links a.btn {
-  color: #000000;
-  border: 1px solid #000000;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+  color: var(--global-theme-color);
+  padding-left: 0.1rem;
+  padding-right: 0.1rem;
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   .publications ol.bibliography li .links a.btn {
     color: #ffffff;
     border: 1px solid #ffffff;
@@ -156,11 +161,18 @@ blockquote {
     padding-top: 0.1rem;
     padding-bottom: 0.1rem;
   }
-}
+} */
 
 .publications ol.bibliography li .links a.btn:hover {
-  color: var(--global-theme-color);
-  border-color: var(--global-theme-color);
+  /* color: var(--global-theme-color);
+  border-color: var(--global-theme-color); */
+  text-decoration: underline;
+}
+
+.publications ol.bibliography li .venue {
+  display: inline-block;
+  font-size: 0.9rem;
+  margin-left: 4px;
 }
 
 .publications ol.bibliography li .hidden {
@@ -204,8 +216,8 @@ blockquote {
 }
 
 .publications ol.bibliography li .teaser {
-  border-radius: 4px;
-  box-shadow: 2px 2px 4px #a2a2a2;
+  border-radius: 2px;
+  /* box-shadow: 2px 2px 4px #a2a2a2; */
   height: 123px;
   width: 270px;
   margin-top: 5px;
