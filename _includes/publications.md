@@ -15,7 +15,7 @@
               Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models
             </a>
           </div>
-          <div class="author"><strong>Raymond Fok</strong>, Nedim Lipka, Tong Sun, Alexa Siu</div>
+          <div class="author"><strong>Raymond Fok</strong>, Nedim Lipka, Tong Sun, Alexa F. Siu</div>
           <!-- <div class="periodical"><em>ACM Conference on Human Factors in Computing Systems <strong>(CHI)</strong>,
             2024.</em></div> -->
           <div class="links">
@@ -66,7 +66,7 @@
           <div class="links">
             [<a href="https://arxiv.org/pdf/2305.07722.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>]
           </div>
-          <div class="venue">AI Magazine 2024 (To Appear)</div>
+          <div class="venue">AI Magazine 2024</div>
         </div>
       </div>
     </li>
@@ -87,10 +87,12 @@
           <div class="links">
             [<a href="https://arxiv.org/pdf/2303.14334.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>]
           </div>
-          <div class="venue">CACM 2024 (To Appear)</div>
+          <div class="venue">CACM 2024</div>
         </div>
       </div>
     </li>
+
+    <br/>
 
     <li>
       <div class="pub-row">
@@ -113,6 +115,29 @@
               target="_blank" style="font-size:12px;">Code</a>]
           </div>
           <div class="venue">EMNLP 2023</div>
+        </div>
+      </div>
+    </li>
+
+    <br>
+
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/teasers/scim_tiis_teaser.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">TiiS '23</abbr>
+        </div>
+
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3665648" target="_blank">Accelerating Scientific Paper Skimming with Augmented Intelligence Through Customizable Faceted Highlights</a></div>
+          <div class="author"><strong>Raymond Fok</strong>, Luca Soldaini, Cassidy Trier, Erin Bransom, Kelsey MacMillan, Evie Cheng, Hita Kambhamettu, Jonathan Bragg, Kyle Lo, Marti A. Hearst, Andrew Head, Daniel S. Weld</div>
+          <!-- <div class="periodical"><em>ACM International Conference on Intelligent User Interfaces <strong>(IUI)</strong>,
+              2023.</em></div> -->
+          <div class="links">
+            [<a href="https://dl.acm.org/doi/pdf/10.1145/3665648" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">PDF</a>]
+          </div>
+          <div class="venue">TiiS 2023</div>
         </div>
       </div>
     </li>
