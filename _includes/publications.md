@@ -5,32 +5,6 @@
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-          <img src="assets/img/teasers/marco_teaser.png" class="teaser img-fluid z-depth-1">
-          <abbr class="badge">CHI '24</abbr>
-        </div>
-
-        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title">
-            <a href="https://dl.acm.org/doi/10.1145/3613904.3641969">
-              Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models
-            </a>
-          </div>
-          <div class="author"><strong>Raymond Fok</strong>, Nedim Lipka, Tong Sun, Alexa F. Siu</div>
-          <!-- <div class="periodical"><em>ACM Conference on Human Factors in Computing Systems <strong>(CHI)</strong>,
-            2024.</em></div> -->
-          <div class="links">
-            [<a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3641969" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>]
-          </div>
-          <div class="venue">CHI 2024</div>
-        </div>
-      </div>
-    </li>
-
-    <br>
-
-    <li>
-      <div class="pub-row">
-        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/teasers/qlarify_teaser.png" class="teaser img-fluid z-depth-1">
           <abbr class="badge">arXiv</abbr>
         </div>
@@ -41,16 +15,47 @@
               Qlarify: Recursively Expandable Abstracts for Directed Information Retrieval over Scientific Papers
             </a>
           </div>
-          <div class="author"><strong>Raymond Fok</strong>, Joseph Chee Chang, Tal August, Amy X. Zhang, Daniel S. Weld</div>
-          <!-- <div class="periodical"><em>ArXiv 2305.07722. October 2023.</em></div> -->
-          <div class="links">[<a href="https://arxiv.org/pdf/2310.07581.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>]
+          <div class="author"><strong>Raymond Fok</strong>, Joseph Chee Chang, Tal August, Amy X. Zhang, Daniel S. Weld
           </div>
-          <div class="venue">ArXiv. Oct 2023.</div>
+          <!-- <div class="periodical"><em>ArXiv 2305.07722. October 2023.</em></div> -->
+          <div class="links">[<a href="https://arxiv.org/pdf/2310.07581.pdf" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">PDF</a>]
+
+            [<a href="assets/files/slides/qlarify_slides_wip.pdf" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">Slides</a>]
+          </div>
+          <div class="venue">ArXiv. Oct 2023</div>
         </div>
       </div>
     </li>
 
-    <br>
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/teasers/marco_teaser.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">CHI '24</abbr>
+        </div>
+
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">
+            <a href="https://dl.acm.org/doi/10.1145/3613904.3641969">
+              Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language
+              Models
+            </a>
+          </div>
+          <div class="author"><strong>Raymond Fok</strong>, Nedim Lipka, Tong Sun, Alexa F. Siu</div>
+          <!-- <div class="periodical"><em>ACM Conference on Human Factors in Computing Systems <strong>(CHI)</strong>,
+            2024.</em></div> -->
+          <div class="links">
+            [<a href="https://dl.acm.org/doi/pdf/10.1145/3613904.3641969" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">PDF</a>]
+            [<a href="assets/files/slides/marco_slides_chi24.pdf" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">Slides</a>]
+          </div>
+          <div class="venue">CHI 2024</div>
+        </div>
+      </div>
+    </li>
 
     <li>
       <div class="pub-row">
@@ -60,18 +65,21 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://arxiv.org/abs/2305.07722">In Search of Verifiability: Explanations Rarely Enable Complementary Performance in AI-Advised Decision Making</a></div>
+          <div class="title"><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12182">In Search of
+              Verifiability: Explanations Rarely Enable Complementary Performance in AI-Advised Decision Making</a>
+          </div>
           <div class="author"><strong>Raymond Fok</strong>, Daniel S. Weld</div>
           <!-- <div class="periodical"><em>AI Magazine. May 2023.</em></div> -->
           <div class="links">
-            [<a href="https://arxiv.org/pdf/2305.07722.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>]
+            [<a href="https://arxiv.org/pdf/2305.07722.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank"
+              style="font-size:12px;">PDF</a>]
+            [<a href="https://onlinelibrary.wiley.com/doi/10.1002/aaai.12182" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">Wiley</a>]
           </div>
           <div class="venue">AI Magazine 2024</div>
         </div>
       </div>
     </li>
-
-    <br>
 
     <li>
       <div class="pub-row">
@@ -81,18 +89,19 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://arxiv.org/abs/2303.14334">The Semantic Reader Project: Augmenting Scholarly Documents through AI-Powered Interactive Reading Interfaces</a></div>
-          <div class="author">Kyle Lo, +51 authors (incl. <strong>Raymond Fok</strong>), Marti A. Hearst, Daniel S. Weld</div>
+          <div class="title"><a href="https://arxiv.org/abs/2303.14334">The Semantic Reader Project: Augmenting
+              Scholarly Documents through AI-Powered Interactive Reading Interfaces</a></div>
+          <div class="author">Kyle Lo, +51 authors (incl. <strong>Raymond Fok</strong>), Marti A. Hearst, Daniel S. Weld
+          </div>
           <!-- <div class="periodical"><em>Communications of the ACM. April 2023.</em></div> -->
           <div class="links">
-            [<a href="https://arxiv.org/pdf/2303.14334.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>]
+            [<a href="https://arxiv.org/pdf/2303.14334.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank"
+              style="font-size:12px;">PDF</a>]
           </div>
-          <div class="venue">CACM 2024</div>
+          <div class="venue">Communications of the ACM 2024</div>
         </div>
       </div>
     </li>
-
-    <br/>
 
     <li>
       <div class="pub-row">
@@ -119,8 +128,6 @@
       </div>
     </li>
 
-    <br>
-
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -129,8 +136,11 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3665648" target="_blank">Accelerating Scientific Paper Skimming with Augmented Intelligence Through Customizable Faceted Highlights</a></div>
-          <div class="author"><strong>Raymond Fok</strong>, Luca Soldaini, Cassidy Trier, Erin Bransom, Kelsey MacMillan, Evie Cheng, Hita Kambhamettu, Jonathan Bragg, Kyle Lo, Marti A. Hearst, Andrew Head, Daniel S. Weld</div>
+          <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3665648" target="_blank">Accelerating
+              Scientific Paper Skimming with Augmented Intelligence Through Customizable Faceted Highlights</a></div>
+          <div class="author"><strong>Raymond Fok</strong>, Luca Soldaini, Cassidy Trier, Erin Bransom, Kelsey
+            MacMillan, Evie Cheng, Hita Kambhamettu, Jonathan Bragg, Kyle Lo, Marti A. Hearst, Andrew Head, Daniel S.
+            Weld</div>
           <!-- <div class="periodical"><em>ACM International Conference on Intelligent User Interfaces <strong>(IUI)</strong>,
               2023.</em></div> -->
           <div class="links">
@@ -141,8 +151,6 @@
         </div>
       </div>
     </li>
-
-    <br>
 
     <li>
       <div class="pub-row">
@@ -163,13 +171,13 @@
               target="_blank" style="font-size:12px;">PDF</a>]
             [<a href="https://github.com/rayfok/scim" class="btn btn-sm z-depth-0" role="button" target="_blank"
               style="font-size:12px;">Code</a>]
+            [<a href="assets/files/slides/scim_slides_iui23.pdf" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">Slides</a>]
           </div>
           <div class="venue">IUI 2023</div>
         </div>
       </div>
     </li>
-
-    <br>
 
     <li>
       <div class="pub-row">
@@ -199,8 +207,6 @@
       </div>
     </li>
 
-    <br>
-
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -229,8 +235,6 @@
       </div>
     </li>
 
-    <br>
-
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -258,8 +262,6 @@
       </div>
     </li>
 
-    <br>
-
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -275,15 +277,13 @@
           <!-- <div class="periodical"><em>ACM Transactions on Interactive Intelligent Systems <strong>(TiiS)</strong>,
               2019.</em></div> -->
           <div class="links">
-            [<a href="https://dl.acm.org/doi/pdf/10.1145/3237188" class="btn btn-sm z-depth-0" role="button" target="_blank"
-              style="font-size:12px;">PDF</a>]
+            [<a href="https://dl.acm.org/doi/pdf/10.1145/3237188" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">PDF</a>]
           </div>
           <div class="venue">TiiS 2019.</div>
         </div>
       </div>
     </li>
-
-    <br>
 
     <li>
       <div class="pub-row">
@@ -309,8 +309,6 @@
       </div>
     </li>
 
-    <br>
-
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -334,8 +332,6 @@
         </div>
       </div>
     </li>
-
-    <br>
 
     <li>
       <div class="pub-row">
@@ -362,6 +358,5 @@
         </div>
       </div>
     </li>
-
   </ol>
 </div>
