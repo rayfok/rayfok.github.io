@@ -6,7 +6,7 @@
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/teasers/qlarify_teaser.png" class="teaser img-fluid z-depth-1">
-          <abbr class="badge">arXiv</abbr>
+          <abbr class="badge">UIST '24</abbr>
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -24,7 +24,7 @@
             [<a href="assets/files/slides/qlarify_slides_wip.pdf" class="btn btn-sm z-depth-0" role="button"
               target="_blank" style="font-size:12px;">Slides</a>]
           </div>
-          <div class="venue">ArXiv. Oct 2023</div>
+          <div class="venue">UIST 2024 (Forthcoming)</div>
         </div>
       </div>
     </li>
