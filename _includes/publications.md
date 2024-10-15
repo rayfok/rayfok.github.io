@@ -11,20 +11,17 @@
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title">
-            <a href="https://arxiv.org/abs/2310.07581">
+            <a href="https://dl.acm.org/doi/10.1145/3654777.3676397">
               Qlarify: Recursively Expandable Abstracts for Directed Information Retrieval over Scientific Papers
             </a>
           </div>
           <div class="author"><strong>Raymond Fok</strong>, Joseph Chee Chang, Tal August, Amy X. Zhang, Daniel S. Weld
           </div>
-          <!-- <div class="periodical"><em>ArXiv 2305.07722. October 2023.</em></div> -->
-          <div class="links">[<a href="https://arxiv.org/pdf/2310.07581.pdf" class="btn btn-sm z-depth-0" role="button"
+          <div class="links">
+            [<a href="https://dl.acm.org/doi/pdf/10.1145/3654777.3676397" class="btn btn-sm z-depth-0" role="button"
               target="_blank" style="font-size:12px;">PDF</a>]
-
-            [<a href="assets/files/slides/qlarify_slides_wip.pdf" class="btn btn-sm z-depth-0" role="button"
-              target="_blank" style="font-size:12px;">Slides</a>]
           </div>
-          <div class="venue">UIST 2024 (Forthcoming)</div>
+          <div class="venue">UIST 2024</div>
         </div>
       </div>
     </li>
@@ -89,14 +86,16 @@
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://arxiv.org/abs/2303.14334">The Semantic Reader Project: Augmenting
+          <div class="title"><a href="https://dl.acm.org/doi/10.1145/3659096">The Semantic Reader Project: Augmenting
               Scholarly Documents through AI-Powered Interactive Reading Interfaces</a></div>
           <div class="author">Kyle Lo, +51 authors (incl. <strong>Raymond Fok</strong>), Marti A. Hearst, Daniel S. Weld
           </div>
           <!-- <div class="periodical"><em>Communications of the ACM. April 2023.</em></div> -->
           <div class="links">
-            [<a href="https://arxiv.org/pdf/2303.14334.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank"
+            [<a href="https://dl.acm.org/doi/pdf/10.1145/3659096" class="btn btn-sm z-depth-0" role="button" target="_blank"
               style="font-size:12px;">PDF</a>]
+            [<a href="https://cacm.acm.org/research/the-semantic-reader-project/" class="btn btn-sm z-depth-0" role="button" target="_blank"
+              style="font-size:12px;">CACM</a>]
           </div>
           <div class="venue">Communications of the ACM 2024</div>
         </div>
