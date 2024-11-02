@@ -10,6 +10,8 @@ I've previously collaborated with AI2 (<a href="https://www.semanticscholar.org/
 
 <!-- {% include_relative _includes/preprints.md %} -->
 
+**Publications:** [[Google Scholar](https://scholar.google.com/citations?user=BuE1X6oAAAAJ) \| [Semantic Scholar](https://www.semanticscholar.org/author/Raymond-Fok/27083453)]
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/workshops.md %}
