@@ -126,6 +126,10 @@ blockquote {
   font-size: 0.9rem;
 }
 
+.publications ol.bibliography li .author strong {
+  font-weight: 600;
+}
+
 .publications ol.bibliography li .author a {
   border-bottom: 1px var(--global-theme-color);
 }

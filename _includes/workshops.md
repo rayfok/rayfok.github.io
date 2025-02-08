@@ -1,4 +1,4 @@
-<!-- <h2 id="light-pubs" style="margin: 2px 0px -15px;">Lightly-Reviewed Workshops, Posters, and Demos</h2> -->
+<h2 id="light-pubs" style="margin: 2px 0px -15px;">Workshops, Posters, and Other Publications</h2>
 
 <div class="publications">
   <ol class="bibliography">
@@ -25,8 +25,6 @@
       </div>
     </li>
 
-    <br>
-
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -48,8 +46,6 @@
         </div>
       </div>
     </li>
-
-    <br>
 
     <li>
       <div class="pub-row">
