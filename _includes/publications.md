@@ -47,7 +47,7 @@
               target="_blank" style="font-size:12px;">PDF</a>]
             [<a href="https://github.com/bnewm0609/arxivDIGESTables" class="btn btn-sm z-depth-0" role="button"
               target="_blank" style="font-size:12px;">Code</a>]
-            [<a href="assets/files/posters/arxivdigestables.key" class="btn btn-sm z-depth-0" role="button"
+            [<a href="assets/files/posters/arxivdigestables.pdf" class="btn btn-sm z-depth-0" role="button"
               target="_blank" style="font-size:12px;">Poster</a>]
           </div>
           <div class="venue">EMNLP 2024</div>
