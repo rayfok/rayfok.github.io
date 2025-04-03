@@ -21,7 +21,7 @@
             [<a href="https://arxiv.org/pdf/2502.00881" class="btn btn-sm z-depth-0" role="button"
               target="_blank" style="font-size:12px;">ArXiv</a>]
           </div>
-          <div class="venue">CHI 2025 (To Appear)</div>
+          <div class="venue">CHI 2025</div>
         </div>
       </div>
     </li>
