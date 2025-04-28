@@ -5,21 +5,47 @@
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/teasers/dimind_teaser.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">arXiv '25</abbr>
+        </div>
+
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">
+            <a href="https://arxiv.org/abs/2504.18496">
+              Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review
+            </a>
+          </div>
+          <div class="author">
+            <strong>Raymond Fok</strong>, Joseph Chee Chang, Marissa Radensky, Pao Siangliulue, Jonathan Bragg, Amy X. Zhang, Daniel S. Weld
+          </div>
+          <div class="links">
+            [<a href="https://arxiv.org/pdf/2504.18496" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">PDF</a>]
+          </div>
+          <div class="venue">arXiv, April 2025</div>
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/teasers/livingnarrativereviews_teaser.png" class="teaser img-fluid z-depth-1">
           <abbr class="badge">CHI '25</abbr>
         </div>
 
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title">
-            <a href="https://arxiv.org/abs/2502.00881">
+            <a href="https://dl.acm.org/doi/10.1145/3706598.3714047">
               Toward Living Narrative Reviews: An Empirical Study of the Processes and Challenges in Updating Survey Articles in Computing Research
             </a>
           </div>
           <div class="author">
-            <strong>Raymond Fok</strong>, Alexa F. Siu, Daniel S. Weld</div>
+            <strong>Raymond Fok</strong>, Alexa F. Siu, Daniel S. Weld
+          </div>
           <div class="links">
-            [<a href="https://arxiv.org/pdf/2502.00881" class="btn btn-sm z-depth-0" role="button"
-              target="_blank" style="font-size:12px;">ArXiv</a>]
+            [<a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3714047" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">PDF</a>]
           </div>
           <div class="venue">CHI 2025</div>
         </div>
@@ -51,6 +77,31 @@
               target="_blank" style="font-size:12px;">Poster</a>]
           </div>
           <div class="venue">EMNLP 2024</div>
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/teasers/scideator_teaser.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">arXiv '24</abbr>
+        </div>
+
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">
+            <a href="https://arxiv.org/abs/2409.14634">
+              Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination
+            </a>
+          </div>
+          <div class="author">
+            Marissa Radensky, Simra Shahid, <strong>Raymond Fok</strong>, Pao Siangliulue, Tom Hope, Daniel S. Weld
+          </div>
+          <div class="links">
+            [<a href="https://arxiv.org/pdf/2409.14634" class="btn btn-sm z-depth-0" role="button"
+              target="_blank" style="font-size:12px;">PDF</a>]
+          </div>
+          <div class="venue">arXiv, Sept 2024</div>
         </div>
       </div>
     </li>
