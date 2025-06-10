@@ -6,7 +6,7 @@ I am a final year Ph.D. candidate at the University of Washington (Paul G. Allen
 
 Throughout my PhD, I've been fortunate to collaborate with researchers at AI2 (<a href="https://www.semanticscholar.org/about">Semantic Scholar</a>), <a href="https://research.adobe.com/research/document-intelligence/">Adobe Research</a>, and <a href="">Google Research</a>. Prior to joining UW, I received my B.S. in Computer Science from the University of Michigan -- Ann Arbor, where I worked on crowdsourcing and mixed-initiative systems.
 
-<p style="border: 1px solid gray; font-weight: 700; padding: 12px; text-align: center; width: 90%; margin: 0 auto; margin-bottom: 16px;">I am on the job market for research/applied scientist and software development positions. Please see my <a href="{{site.cv_link}}" target="_blank">academic CV</a> or <a href="{{site.resume_link}}" target="_blank">1-page resume</a>, and contact me at rayfok@cs.washington.edu!</p>
+<!-- <p style="border: 1px solid gray; font-weight: 700; padding: 12px; text-align: center; width: 90%; margin: 0 auto; margin-bottom: 16px;">I am on the job market for research/applied scientist and software development positions. Please see my <a href="{{site.cv_link}}" target="_blank">academic CV</a> or <a href="{{site.resume_link}}" target="_blank">1-page resume</a>, and contact me at rayfok@cs.washington.edu!</p> -->
 
 **Research Areas/Interests**: Human-AI Interaction, HCI, NLP, Explainable AI
 
